@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<productListing title=" My Products">
+  <product>
+    <name>AirPods Pro Case</name>
+    <description>To protect the AirPods Pro</description>
+    <cost>$10.99</cost>
+    <shipping>$4.00</shipping>
+  </product>
+  <product>
+    <name>Apple MacBook Air</name>
+    <description>laptop to work</description>
+    <cost>$1,199.98</cost>
+    <shipping>$90</shipping>
+  </product>
+  <product>
+    <name>The Ordinary</name>
+    <description>Peeling Solution for skincare</description>
+    <cost>$15.99</cost>
+    <shipping>Free</shipping>
+  </product>
+</productListing>
